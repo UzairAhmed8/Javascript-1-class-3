@@ -9,6 +9,6 @@ function loginFunction() {
     }
 
     alert("login Successfull")
-    window.location.href = "./Figma-website/index.html";
+    window.location.href = "./second-page.html";
 
 }
